@@ -1,13 +1,13 @@
 <div class="container">	
 	<div class="jumbotron"> 
 		<img src="/assets/images/burger.png"> 
-		<h1> Eat-Da-Burger! </h1>
+		<h1> Eat Da Burger! </h1>
 	</div>
 
 	{{!-- burger list before being devoured --}}
 	<div class="row">
 		<div class="col-md-4 col-md-offset-1">
-			<div class="panel-panel default">
+			<div class="panel panel-default">
 				<ul class="list-group">
 				{{#each burgers}}
 					{{#unless this.devoured}}
@@ -48,8 +48,8 @@
 				</ul>
 			</div>
 		</div>
-        </div>
     </div>
+    
     <div class="row">
 	    <div class="col-md-4 col-md-offset-1 userInputDiv">
 		    <p class="lead"> Add a new burger to menu & click the submit button </p>
