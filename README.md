@@ -76,4 +76,4 @@ To visit deployed application, [click here](https://sensationnel-bastille-85303.
 ### Gif Demo
 ![Demo](/public/assets/images/demo.gif)
 ### Live Demo
-[Link to the deployed app on Heroku](https://sensationnel-bastille-85303.herokuapp.com/)
+[For Live Demo Click Here](https://sensationnel-bastille-85303.herokuapp.com/)
