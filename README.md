@@ -22,6 +22,7 @@ A node application that implements CRUD methodology and follows MVC pattern. Thi
  * Handlebars 
  * Node.js | JavaScript
     * Ajax calls
+ * jQuery
  * HTML
  * CSS
  * Bootstrap
