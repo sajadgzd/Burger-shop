@@ -17,12 +17,12 @@ Burger Sequelize is a node application that implements CRUD methodology and foll
  * Bootstrap
  * Sequelize
  * MySQL
-  ** Local database
+    * Local database
  * JawsDB
-  ** Deployed Heroku database 
+    * Deployed Heroku database 
  * Handlebars 
  * Node.js | JavaScript
-  ** Ajax calls
+    * Ajax calls
  * HTML
  * CSS
  * Bootstrap
