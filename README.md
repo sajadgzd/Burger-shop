@@ -14,7 +14,6 @@ A node application that implements CRUD methodology and follows MVC pattern. Thi
 <a name="technologies"></a>
 ## Technologies
  * Express.js 
- * Bootstrap
  * Sequelize
  * MySQL
     * Local database
