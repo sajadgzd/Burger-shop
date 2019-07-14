@@ -1,4 +1,4 @@
-# Burger-Sequelize
+# Eat the Burger
 ----------
 ## Table of Contents 
 1. [Overview](#overview)
@@ -9,7 +9,7 @@
 
 <a name="overview"></a>
 ## Overview 
-Burger Sequelize is a node application that implements CRUD methodology and follows MVC pattern. This app allows user to create burger that they love and store them via MySQL database. One of the columns on the `burgers` table is `devoured` which is a `BOOLEAN`. Once the user click the "Devour It" button on a burger, the devoured boolean on that burger is set to true. Burgers that have not yet been devoured are displayed on the left side of the screen, whereas those that have been devoured are displayed to the right. The user is also able to delete the burger from the database by clicking on the Clean the dishes button.
+A node application that implements CRUD methodology and follows MVC pattern. This app allows user to create burger that they love and store them via MySQL database. One of the columns on the `burgers` table is `devoured` which is a `BOOLEAN`. Once the user click the "Devour It" button on a burger, the devoured boolean on that burger is set to true. Burgers that have not yet been devoured are displayed on the left side of the screen, whereas those that have been devoured are displayed to the right. The user is also able to delete the burger from the database by clicking on the Clean the dishes button.
 
 <a name="technologies"></a>
 ## Technologies
