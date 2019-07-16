@@ -32,7 +32,9 @@ A node application that implements CRUD methodology and follows MVC pattern. Thi
 ### Step 1: Git Clone
 Clone Burger-Sequelize to your local git repo like the following:
 > git clone git@github.com:sajadgzd/Eat-the-Burger.git
+
 or
+
 > git clone https://github.com/sajadgzd/Eat-the-Burger.git
 
 The Burger-Sequelize project and its files should now be in your project folder.
